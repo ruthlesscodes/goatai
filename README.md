@@ -1,3 +1,6 @@
+> [!WARNING]
+> **[Archived]** This repository is a read-only historical snapshot. It is no longer actively maintained, and no issues, pull requests, or updates will be accepted. Use as-is.
+
 <div>
   <img src="https://github.com/user-attachments/assets/59fa5ddc-9d47-4d41-a51a-64f6798f94bd" alt="GOAT" width="100%" height="auto" style="object-fit: contain; max-width: 800px;">
 
